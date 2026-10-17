@@ -2,7 +2,7 @@
 
 A lightweight, native macOS menu bar status monitor designed to display accurate real-time hardware thermals and cooling metrics directly via Apple System Management Controller (SMC) and IOKit.
 
-Supports Apple Silicon (M1, M2, M3, M4, M5 series) and Intel-based Mac computers.
+Supports Apple Silicon (M1, M2, M3, M4, M5 Pro/Max/Ultra  series) and Intel-based Mac computers.
 
 ---
 
